@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Saad
 - 👀 I’m interested to become a Data Scientist.
-- 🌱 I’m currently learning Data Engineering.
-- 💞️ I’m looking forward to work as a Data Analyst.
+- 🌱 I’m Data Analyst by profession.
+- 💞
 - 📫 How to reach me? +923361837618
 
 <!---
